@@ -126,7 +126,7 @@ Five runs that differ only in the labels available for training: 5, 20, 100 and 
 
 Per-class columns are test IoU.
 
-![Experiment plots](figures/results_plots.png)
+![Experiment plots](figures/results_plots.PNG)
 
 ### Discussion
 
@@ -173,7 +173,7 @@ The hypothesis is not supported. In this setup, changing gamma has no measurable
 
 ## 6. Qualitative results
 
-![Predictions](figures/predictions.png)
+![Predictions](figures/predictions.PNG)
 
 Predictions of the 500-point model on three test tiles are fragmented and speckled. Large regions are partly recovered, but building is predicted on textured vegetation and region boundaries do not follow the ground truth. This matches an mIoU of about 0.24.
 
